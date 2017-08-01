@@ -1,3 +1,4 @@
+#只能用 ` 不能用 '?
 DROP TABLE IF EXISTS person;
 CREATE TABLE person(
     name  varchar(20),
